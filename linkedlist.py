@@ -6,6 +6,9 @@ class Node:
 
     def __str__(self):
         return str(self.data)
+    
+    def __eq__(self, other):
+        return self.data == other.data
 
 
 class LinkedList:
