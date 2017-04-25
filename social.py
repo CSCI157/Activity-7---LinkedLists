@@ -10,3 +10,6 @@ class SS:
 
     def __str__(self):
         return self.social
+
+    def __eq__(self, other):
+        return self.social == other.social
