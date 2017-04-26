@@ -1,7 +1,7 @@
 # LinkedLists
 For the following use the code for linked lists provided in linkedlist.py.
 
-1. Implement a getter and a setter for the data in the node class.<br>
+1. Implement a getter and a setter for the data in the node class. Make sure to use the property decorator from the why video (the code is in whypart2.py in that video).<br>
 2. Create a stack class, which inherits the linked list class and adds a pop method. <br>
    Use the SS class in social.py to create 7 valid social security numbers and push them to the stack. Print the stack. Pop each SS# from the stack, print the entire stack with each pop.
 3. Create a queue class which inherits the linked list class and adds a pop method. <br>
