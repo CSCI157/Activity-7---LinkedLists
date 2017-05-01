@@ -9,4 +9,4 @@ For the following use the code for linked lists provided in linkedlist.py.
 4. Create a method delete for the linked list class that removes an element with a certain value. <br>
    def delete(self, x):
    Use my social security class code from the regexes activity to create 7 valid social security numbers and push them to the list. Make the middle number "324-12-3333". Print the list and then use your delete function to remove it, print the list again. <br>
-   Here is a good source for an algorithm: http://www.algolist.net/Data_structures/Binary_search_tree/Removal
+   Here is a good source for an algorithm: [Link](http://www.algolist.net/Data_structures/Binary_search_tree/Removal)
