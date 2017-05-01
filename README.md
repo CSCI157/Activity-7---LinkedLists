@@ -8,4 +8,5 @@ For the following use the code for linked lists provided in linkedlist.py.
    Use my social security class code from the regexes activity to create 7 valid social security numbers and push them to the queue. Print the queue. Pop each SS# from the queue, print the entire queue with each pop.
 4. Create a method delete for the linked list class that removes an element with a certain value. <br>
    def delete(self, x):
-   Use my social security class code from the regexes activity to create 7 valid social security numbers and push them to the list. Make the middle number "324-12-3333". Print the list and then use your delete function to remove it, print the list again.
+   Use my social security class code from the regexes activity to create 7 valid social security numbers and push them to the list. Make the middle number "324-12-3333". Print the list and then use your delete function to remove it, print the list again. <br>
+   Here is a good source for an algorithm: http://www.algolist.net/Data_structures/Binary_search_tree/Removal
